@@ -17,7 +17,7 @@ Built to demonstrate backend development, CI/CD, and cloud-readiness in a DevOps
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 src
